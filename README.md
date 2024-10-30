@@ -9,9 +9,9 @@ This repository contains my blockchain notes.
 
 ## Advanced Blockchain Development
 
-- [IPFS and SVG Files](advanced-blockchain-development/ipfs-and-svg-files/ipfs-and-svg-files.md)
+-[IPFS and SVG Files](advanced-blockchain-development/ipfs-and-svg-files/ipfs-and-svg-files.md)
 -[Upgradeable Smart Contracts](advanced-blockchain-development/upgradeable-smart-contracts/upgradeable-smart-contracts.md)
 
 ## Decentralized Finance (DeFi)
 
-Notes on DeFi can be found [here](defi-docs/defi.md)
+- [DeFi Notes](defi-docs/defi.md)
