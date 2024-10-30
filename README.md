@@ -5,7 +5,13 @@ This repository contains my blockchain notes.
 ## Blockchain Basics
 
 - [Introduction to Blockchain and Smart Contracts](blockchain-basics/blockchain-basics.md)
-- [Layer One and Layer Two Blockchains](blockchain-basics/layer-one-and-two-blockchains.md)
+- [Transaction Explorers](blockchain-basics/transaction-explorers.md)
+
+## Intermediate Blockchain Concepts
+
+- [Layer One and Layer Two Blockchains](blockchain-intermediate/layer-one-and-two-blockchains.md)
+- [Bridging Funds](blockchain-intermediate/bridging-funds.md)
+- [zkSync Level Two Rollup](blockchain-intermediate/zksync-level-two.md)
 
 ## Advanced Blockchain Development
 
