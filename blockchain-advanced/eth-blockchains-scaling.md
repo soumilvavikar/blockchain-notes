@@ -34,11 +34,11 @@ Some solutions, known as "**Layer 2**", **derive their security directly from la
 - Zero-knowledge rollups
 - State channels
 
-Information about the layer-2 scaling is documented [here](blockchain-advanced/layer-one-and-two-blockchains.md).
+Information about the layer-2 scaling is documented [here](layer-one-and-two-blockchains.md).
 
 **Other solutions** involve the creation of new chains in various forms that **derive their security separately** from Mainnet, such as:
 
-- Sidechains (differences b/w sidechains and layer-2 are documented [here](blockchain-advanced/layer-one-and-two-blockchains.md))
+- Sidechains (differences b/w sidechains and layer-2 are documented [here](layer-one-and-two-blockchains.md))
 - Validiums
 - Plasma chains
 
