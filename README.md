@@ -7,16 +7,17 @@ This repository contains my blockchain notes.
 - [Introduction to Blockchain and Smart Contracts](blockchain-basics/blockchain-basics.md)
 - [Transaction Explorers](blockchain-basics/transaction-explorers.md)
 
-## Intermediate Blockchain Concepts
+## Advanced Blockchain Concepts
 
-- [Layer One and Layer Two Blockchains](blockchain-intermediate/layer-one-and-two-blockchains.md)
-- [Bridging Funds](blockchain-intermediate/bridging-funds.md)
-- [zkSync Level Two Rollup](blockchain-intermediate/zksync-level-two.md)
+- [Ethereum Blockchain Scaling](blockchain-advanced/eth-blockchains-scaling.md)
+- [Layer One and Layer Two Blockchains](blockchain-advanced/layer-one-and-two-blockchains.md)
+- [Bridging Funds](blockchain-advanced/bridging-funds.md)
+- [zkSync Level Two Rollup](blockchain-advanced/zksync-level-two.md)
 
-## Advanced Blockchain Development
+## Blockchain Development
 
-- [IPFS and SVG Files](advanced-blockchain-development/ipfs-and-svg-files/ipfs-and-svg-files.md)
-- [Upgradeable Smart Contracts](advanced-blockchain-development/upgradeable-smart-contracts/upgradeable-smart-contracts.md)
+- [IPFS and SVG Files](blockchain-development/ipfs-and-svg-files/ipfs-and-svg-files.md)
+- [Upgradeable Smart Contracts](blockchain-development/upgradeable-smart-contracts/upgradeable-smart-contracts.md)
 
 ## Decentralized Finance (DeFi)
 

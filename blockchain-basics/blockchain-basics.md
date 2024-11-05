@@ -74,4 +74,5 @@ The blockchain trilemma, coined by Ethereum co-founder Vitalik Buterin, refers t
 - Scalability
 - Decentralization
 
+![Trilemma](readme-imgs/trilemma.png)
 The trilemma posits that it's extremely difficult, if not impossible, to achieve all three aspects simultaneously at optimal levels. Typically, improving one aspect comes at the expense of one or both of the others.

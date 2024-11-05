@@ -14,9 +14,23 @@ Layer 1 blockchains refer to the **base layer** or the **main blockchain archite
 
 ## Layer 2 Blockchains
 
-Layer 2 solutions are built on top of Layer 1 blockchains to enhance their scalability and efficiency. They handle transactions off-chain and then report back to the main chain, reducing congestion and improving transaction speeds.
+Layer 2 solutions are built on top of Layer 1 blockchains to enhance their scalability and efficiency. They handle transactions off-chain and then report back to the main chain, reducing congestion and improving transaction speeds; however, it derives its security from Mainnet Ethereum.
 
 ![Layer 2 Components](readme-imgs/l2-components.png)
+
+### Layer 2 Scaling
+
+Transaction speed on Blockchains suffers when the network is busy, leading to poor user experience for certain types of dApps and increased gas prices as transaction senders aim to outbid each other.
+
+Layer 2 is a collective term for solutions designed to help scale dApps deployed on the Blockchain by handling transactions off the Ethereum Mainnet (layer 1) while taking advantage of the robust decentralized security model of Mainnet.
+
+Most "layer 2" solutions are centered around a server or cluster of servers (node, validator, operator, sequencer, or block producer). These "level-2" solutions are managed/run by individuals, large groups of individuals, businesses, entities that use them, or third-party operators.
+
+The dApps submit the transactions to these "layer 2" nodes instead of submitting them directly to layer 1 (Mainnet). For some solutions, the "layer 2" instance groups the transactions before anchoring them to "layer 1", after which they are secured by "layer 1" and the transactions become immutable.
+
+Video tutorial for the Layer 2 scaling is [here](https://youtu.be/BgCgauWVTs0).
+
+![Scaling Blockchains](readme-imgs/scaling-blockchains.png)
 
 **NOTE**:
 
@@ -44,6 +58,8 @@ Rollups are Layer 2 scaling solutions for Ethereum designed to improve transacti
 ![Rollups](readme-imgs/rollups.png)
 
 Rollups represent a promising solution for Ethereum's scaling challenges, offering a balance between efficiency and security while leveraging Ethereum's existing infrastructure and security model. There are two types of rollups:
+
+![types of rollups](readme-imgs/types-of-rollups.png)
 
 - **Optimistic Rollups**
   - Assume transactions are valid by default
