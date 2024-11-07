@@ -22,3 +22,7 @@ This repository contains my blockchain notes.
 ## Decentralized Finance (DeFi)
 
 - [DeFi Notes](defi-docs/defi.md)
+
+## General Notes
+
+- [Tokenizing Real World Assets (RWAs)](general-notes/tokenize-rwa.md)
